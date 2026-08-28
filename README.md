@@ -8,7 +8,7 @@
   </a>
 </p>
 
-Learn Kubernetes with this comprehensive learning path designed for beginners. This roadmap provides a series of hands-on Kubernetes courses to master the leading container orchestration platform. It offers a clear structure for understanding container orchestration, scaling, and deployment strategies. Through practical, non-video exercises in a cloud-native playground, you will gain real-world experience in the large-scale management of containerized applications.
+Learn Kubernetes with this compr ehensive learning path designed for beginners. This roadmap provides a series of hands-on Kubernetes courses to master the leading container orchestration platform. It offers a clear structure for understanding container orchestration, scaling, and deployment strategies. Through practical, non-video exercises in a cloud-native playground, you will gain real-world experience in the large-scale management of containerized applications.
 
 [Start Practicing on LabEx](https://labex.io/learn/kubernetes)
 
